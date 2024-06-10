@@ -31,6 +31,8 @@ public class JwtUtil {
 	
 	//private final SecretKey jwtSecretKey;
 	
+	// 테스트
+	
 	//private final SecretKey jwtSecretKey;
 
     /*private SecretKey getSecretKey() {
